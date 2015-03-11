@@ -1,0 +1,69 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# MS Visual Studio 2012 solution and project files
+*.sdf
+*.sln
+*.suo
+*.vcxproj
+*.filters
+*.vcxproj.user
+
+# MS Visual Studio 2012 C++ debug files
+*.log
+*.tlog
+*.obj
+*.exe
+*.ilk
+*.lastbuildstate
+*.pdb
+*.idb
+*.ico
+*.rc
+*.filters
+*.ipch
+*.lo
+*.cd
+*.opensdf
+
+# MS Visual Studio 2012 C# debug files
+*.config
+*.csproj
+*.txt
+*.cache
+*..manifest
+*.vshost.exe.manifest
+*TemporaryGeneratedFile_*
+AssemblyInfo.cs
+
+# MS Visual Studio 2012 UML files
+*.modelproj
+*.xml
+*.classdiagram
+*.classdiagram.*
+*.uml
+
+# Compressed files
+*.zip
+
+# ProcessSchedulingSimulation log file
+logfile.txt
