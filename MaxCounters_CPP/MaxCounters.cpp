@@ -12,13 +12,7 @@ if A[K] = N + 1 then operation K is max counter.
 
 For example, given integer N = 5 and array A such that:
 
-A[0] = 3
-A[1] = 4
-A[2] = 4
-A[3] = 6
-A[4] = 1
-A[5] = 4
-A[6] = 4
+A[0] = 3	A[1] = 4	A[2] = 4	A[3] = 6	A[4] = 1	A[5] = 4	A[6] = 4
 
 the values of the counters after each consecutive operation will be:
 
@@ -48,13 +42,7 @@ The sequence should be returned as:
 
 For example, given:
 
-A[0] = 3
-A[1] = 4
-A[2] = 4
-A[3] = 6
-A[4] = 1
-A[5] = 4
-A[6] = 4
+A[0] = 3	A[1] = 4	A[2] = 4	A[3] = 6	A[4] = 1	A[5] = 4	A[6] = 4
 
 the function should return [3, 2, 2, 4, 2], as explained above.
 

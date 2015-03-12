@@ -12,14 +12,7 @@ The frog can cross only when leaves appear at every position across the river fr
 
 For example, you are given integer X = 5 and array A such that:
 
-A[0] = 1
-A[1] = 3
-A[2] = 1
-A[3] = 4
-A[4] = 2
-A[5] = 3
-A[6] = 5
-A[7] = 4
+A[0] = 1	A[1] = 3	A[2] = 1	A[3] = 4	A[4] = 2	A[5] = 3	A[6] = 5	A[7] = 4
 
 In minute 6, a leaf falls into position 5. This is the earliest time when leaves appear in every position across the river.
 
@@ -34,14 +27,7 @@ If the frog is never able to jump to the other side of the river, the function s
 
 For example, given X = 5 and array A such that:
 
-A[0] = 1
-A[1] = 3
-A[2] = 1
-A[3] = 4
-A[4] = 2
-A[5] = 3
-A[6] = 5
-A[7] = 4
+A[0] = 1	A[1] = 3	A[2] = 1	A[3] = 4	A[4] = 2	A[5] = 3	A[6] = 5	A[7] = 4
 
 the function should return 6, as explained above.
 

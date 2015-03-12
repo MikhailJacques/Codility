@@ -29,18 +29,13 @@ that, given a zero-indexed array A, returns 1 if array A is a permutation and 0 
 
 For example, given array A such that:
 
-A[0] = 4
-A[1] = 1
-A[2] = 3
-A[3] = 2
+A[0] = 4	A[1] = 1	A[2] = 3	A[3] = 2
 
 the function should return 1.
 
 Given array A such that:
 
-A[0] = 4
-A[1] = 1
-A[2] = 3
+A[0] = 4	A[1] = 1	A[2] = 3
 
 the function should return 0.
 
